@@ -1,0 +1,32 @@
+@import '../../style/variables.scss';
+
+@keyframes ldio-6ls2wt4b3px {
+     0% { background: $main-color }
+     12.5% { background: $main-color }
+     12.625% { background: $dark }
+     100% { background: $grey }
+   }
+   .ldio-6ls2wt4b3px div {
+     position: absolute;
+     width: 40px;
+     height: 40px;
+     background: #e15b64;
+     animation: ldio-6ls2wt4b3px 1s linear infinite;
+   }
+   .loadingio-spinner-blocks-e8au8hxl82h {
+    margin: 0 auto;
+     width: 200px;
+     height: 200px;
+     display: inline-block;
+     overflow: hidden;
+     background: none;
+   }
+   .ldio-6ls2wt4b3px {
+     width: 100%;
+     height: 100%;
+     position: relative;
+     transform: translateZ(0) scale(1);
+     backface-visibility: hidden;
+     transform-origin: 0 0; /* see note above */
+   }
+   .ldio-6ls2wt4b3px div { box-sizing: content-box; }
